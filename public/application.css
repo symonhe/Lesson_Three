@@ -1,0 +1,15 @@
+form#hit_form {
+  float: left;
+  margin-right: 15px;
+}
+form#stay_form {
+  float: left;
+}
+
+img.cards {
+  class: "img-rounded";
+  border: 2px solid #021a40;
+  padding: 1px;
+  background-color: #2EB8E6;
+  margin-right: 10px;
+}
